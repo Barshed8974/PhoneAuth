@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131981143401",
+    "project_id": "medeasy-1ac92",
+    "storage_bucket": "medeasy-1ac92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131981143401:android:c6bee5cf0e1b68b7da61f8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131981143401-o97gtsakno49dkdhijjqb6sio1bk2q3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoejstGtkLdMdVr-wZvcjpyReXqs5lVQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131981143401-o97gtsakno49dkdhijjqb6sio1bk2q3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
